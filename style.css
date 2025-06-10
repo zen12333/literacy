@@ -1,0 +1,10 @@
+.launch-btn {
+      background-color: #FF851B;
+      color: #001f3f;
+      border: none;
+      padding: 10px 25px;
+      margin-top: 30px;
+      font-size: 1em;
+      font-weight: bold;
+      cursor: pointer;
+    }
